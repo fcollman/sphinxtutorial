@@ -162,16 +162,30 @@ This is my preferred method as it builds them for you as you check in new code.
 githubpages: https://executableopinions.readthedocs.io/en/latest/labs/gh-pages/gh-pages.html
 This is also an option but the config is complex and you have to maintain the builds yourself.
 
+Relevant VSCode Extensions
+~~~~~~~~~~~~~~~~~~
+Python Docstring Generator: https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
+Gives you a preformated docstring after you write function signature, just fill in descriptions
+
+reStructuredText: https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
+Gives you formatting tips, live preview, etc. 
+
 Example to look at
 ~~~~~~~~~~~~~~~~~~
-render-python: https://github.com/AllenInstitute/render-python 
+render-python: https://github.com/AllenInstitute/render-python |br|
 docs online at: https://render-python.readthedocs.io/en/latest/
 
-render-modules: https://github.com/AllenInstitute/render-modules
+render-modules: https://github.com/AllenInstitute/render-modules |br|
 docs online at: https://render-modules.readthedocs.io/en/latest/
 
-MeshParty: https://github.com/sdorkenw/MeshParty
+MeshParty: https://github.com/sdorkenw/MeshParty |br|
 docs online at: https://github.com/sdorkenw/MeshParty
 
-argschema: https://github.com/AllenInstitute/argschema
+argschema: https://github.com/AllenInstitute/argschema |br|
 docs: https://argschema.readthedocs.io/en/master/
+
+
+.. # define a hard line break for HTML
+.. |br| raw:: html
+
+   <br />
