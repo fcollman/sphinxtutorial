@@ -163,7 +163,7 @@ githubpages: https://executableopinions.readthedocs.io/en/latest/labs/gh-pages/g
 This is also an option but the config is complex and you have to maintain the builds yourself.
 
 Relevant VSCode Extensions
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 Python Docstring Generator: https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
 Gives you a preformated docstring after you write function signature, just fill in descriptions
 
